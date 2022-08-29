@@ -1,3 +1,3 @@
 # Reinforcement-Learning
 
-## The repository contains the experiments for the Reinforcement Learning course.
+## This repository contains the experiments for the Reinforcement Learning course.
